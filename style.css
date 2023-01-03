@@ -39,7 +39,7 @@ html {
 /* mobile nav */
 .btn-mobile-nav {
   border: none;
-  background-color: none;
+  background: none;
   cursor: pointer;
 
   display: none;
@@ -160,6 +160,7 @@ html {
 .part-2-sub-box {
   display: flex;
   gap: 1rem;
+  align-items: center;
 }
 
 .part-2-img {
